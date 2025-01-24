@@ -27,3 +27,15 @@ rhino.local.properties
 usercache.json
 usernamecache.json
 
+# Server stuff
+backups/
+crash-reports/
+banned-*.json
+eula.txt
+libraries/
+mcss*.json
+ops.json
+run.bat
+server.properties
+user_jvm_args.txt
+whitelist.json
