@@ -9,6 +9,10 @@ modernfix/
 schematics/
 screenshots/
 mods/
+resourcepacks/
+texturepacks/
+shaderpacks/
+datapacks/
 rhino.local.properties
 usercache.json
 usernamecache.json
