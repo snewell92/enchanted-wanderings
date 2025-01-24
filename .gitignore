@@ -1,0 +1,14 @@
+saves/
+.mixin.out/
+local/
+logs/
+lightspeed-cache/
+coremods/
+localconfigs/
+modernfix/
+schematics/
+screenshots/
+rhino.local.properties
+usercache.json
+usernamecache.json
+
