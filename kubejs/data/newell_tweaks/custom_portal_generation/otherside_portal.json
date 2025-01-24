@@ -1,0 +1,16 @@
+{
+  "schema_version": "imm_ptl:v1",
+  "from": ["minecraft:overworld"],
+  "to": "deeperdarker:otherside",
+  "form": {
+    "type": "imm_ptl:try_hard_to_match",
+    "from_frame_block": "minecraft:reinforced_deepslate",
+    "area_block": "deeperdarker:otherside_portal",
+    "to_frame_block": "minecraft:reinforced_deepslate",
+    "generate_frame_if_not_found": true
+  },
+  "trigger": {
+    "type": "imm_ptl:use_item",
+    "item": "deeperdarker:heart_of_the_deep"
+  }
+}

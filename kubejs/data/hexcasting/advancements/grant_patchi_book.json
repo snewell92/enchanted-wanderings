@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "removed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "loot": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:grove",
+    "minecraft:windswept_hills",
+    "byg:shattered_glacier",
+    "byg:howling_peaks",
+    "byg:canadian_shield",
+    "byg:cardinal_tundra",
+    "byg:frosted_taiga",
+    "byg:frosted_coniferous_forest",
+    "biomesoplenty:snowy_coniferous_forest",
+    "biomesoplenty:snowy_fir_clearing",
+    "biomesoplenty:snowy_maple_woods",
+    "biomesoplenty:muskeg",
+    "biomesoplenty:auroral_garden",
+    "terralith:rocky_mountains",
+    "terralith:wintry_forest",
+    "terralith:frozen_cliffs",
+    "terralith:glacial_chasm",
+    "terralith:alpine_grove",
+    "terralith:alpha_islands_winter",
+    "terralith:wintry_lowlands"
+  ],
+  "spawners": {
+    "type": "snuffles:snuffle",
+    "weight": 6,
+    "minCount": 2,
+    "maxCount": 6
+  }
+}

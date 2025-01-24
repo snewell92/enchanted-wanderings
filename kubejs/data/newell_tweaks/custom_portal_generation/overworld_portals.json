@@ -1,0 +1,16 @@
+{
+  "schema_version": "imm_ptl:v1",
+  "from": ["imm_ptl:any_dimension"],
+  "to": "imm_ptl:the_same_dimension",
+  "form": {
+    "type": "imm_ptl:try_hard_to_match",
+    "from_frame_block": "ars_nouveau:smooth_gilded_sourcestone_alternating",
+    "area_block": "minecraft:air",
+    "to_frame_block": "ars_nouveau:smooth_gilded_sourcestone_alternating",
+    "generate_frame_if_not_found": false
+  },
+  "trigger": {
+    "type": "imm_ptl:use_item",
+    "item": "waystones:warp_stone"
+  }
+}
