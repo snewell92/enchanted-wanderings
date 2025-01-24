@@ -13,6 +13,15 @@ resourcepacks/
 texturepacks/
 shaderpacks/
 datapacks/
+essential/*.jar
+essential/*.jar.meta
+essential/*-cache/
+essential/libraries/
+essential/loader/
+essential/lwjgl3-natives/
+essential/screenshot-*/
+essential/screenshot-checksum-caches.json
+
 rhino.local.properties
 usercache.json
 usernamecache.json
