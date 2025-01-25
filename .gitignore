@@ -23,6 +23,7 @@ essential/lwjgl3-natives/
 essential/screenshot-*/
 essential/screenshot-checksum-caches.json
 ESM/
+config/chunky/tasks/
 
 rhino.local.properties
 usercache.json
