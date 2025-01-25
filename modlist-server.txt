@@ -55,7 +55,7 @@ createaddition-1.19.2-1.2.2.jar
 CreateCasing-1.19.2-1.6.1-fix3.jar
 create_connected-0.8.2-mc1.19.2-all.jar
 create_copper_and_zinc-1.6.0-forge-1.19.2.jar
-Create-DnDesire-1.19.2-1.2c.Beta Mid-Dev.jar
+Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar
 create_easy_structures-0.1.2-forge-1.19.2.jar
 create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.e.jar
 create_high_pressure-1.1.0-1.19.2.jar
@@ -187,7 +187,6 @@ paucal-forge-1.19.2-0.5.0.jar
 personality-1.19.2-3.0.2.jar
 Placebo-1.19.2-7.4.0.jar
 player-animation-lib-forge-1.0.2.jar
-pluto-mc1.19.2-0.0.9.jar
 polymorph-forge-0.46.6+1.19.2.jar
 Powah-4.0.11.jar
 PuzzlesLib-v4.4.3-1.19.2-Forge.jar

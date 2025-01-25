@@ -1,4 +1,3 @@
-./mods/:
 AdvancementPlaques-1.19.2-1.4.7.jar
 AmbientSounds_FORGE_v5.3.9_mc1.19.2.jar
 Apotheosis-1.19.2-6.5.2.jar
@@ -17,7 +16,7 @@ Clumps-forge-1.19.2-9.0.0+14.jar
 CommonCapabilities-1.19.2-2.9.4.jar
 Controlling-forge-1.19.2-10.0+7.jar
 CorgiLib-forge-1.19.2-1.0.0.34.jar
-Create-DnDesire-1.19.2-1.2c.Beta Mid-Dev.jar
+Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar
 CreateCasing-1.19.2-1.6.1-fix3.jar
 CreativeCore_FORGE_v2.11.28_mc1.19.2.jar
 Cucumber-1.19.2-6.0.11.jar
@@ -265,7 +264,6 @@ packetfixer-forge-1.4.3-1.19-to-1.20.1.jar
 paucal-forge-1.19.2-0.5.0.jar
 personality-1.19.2-3.0.2.jar
 player-animation-lib-forge-1.0.2.jar
-pluto-mc1.19.2-0.0.9.jar
 polymorph-forge-0.46.6+1.19.2.jar
 pop-1.19-1.0.0.jar
 qualitysounds-forge-1.5.0-1.19.2.jar
