@@ -24,6 +24,7 @@ essential/screenshot-*/
 essential/screenshot-checksum-caches.json
 ESM/
 config/chunky/tasks/
+config/byg/backups/
 
 rhino.local.properties
 usercache.json
