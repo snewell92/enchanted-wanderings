@@ -41,3 +41,6 @@ run.bat
 server.properties
 user_jvm_args.txt
 whitelist.json
+
+# mac
+.DS_Store
