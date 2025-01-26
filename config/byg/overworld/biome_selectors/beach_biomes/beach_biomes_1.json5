@@ -22,7 +22,7 @@ All keys passed in must be valid in the biome registry!
 		[ "minecraft:snowy_beach", "minecraft:snowy_beach", "minecraft:snowy_beach", "minecraft:snowy_beach", "minecraft:snowy_beach" ],
 		[ "minecraft:beach", "minecraft:beach", "minecraft:beach", "minecraft:beach", "minecraft:beach" ],
 		[ "byg:basalt_barrera", "byg:basalt_barrera", "byg:basalt_barrera", "byg:basalt_barrera", "byg:basalt_barrera" ],
-		[ "byg:rainbow_beach", "byg:rainbow_beach", "byg:rainbow_beach", "byg:rainbow_beach", "byg:rainbow_beach" ],
-		[ "byg:windswept_desert", "byg:windswept_desert", "byg:windswept_desert", "byg:windswept_desert", "byg:windswept_desert" ]
+		[ "byg:rainbow_beach", "byg:rainbow_beach", "byg:rainbow_beach", "byg:bayou", "byg:bayou" ],
+		[ "byg:windswept_desert", "byg:windswept_desert", "byg:white_mangrove_marshes", "byg:white_mangrove_marshes", "byg:white_mangrove_marshes" ]
 	]
 }
