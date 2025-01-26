@@ -46,5 +46,5 @@
 ["Biome Generation"]
 	#rarity of the willow swamp biome, 0 to disable
 	#Range: > 0
-	willow_swamp_rarity = 24
+	willow_swamp_rarity = 28
 
