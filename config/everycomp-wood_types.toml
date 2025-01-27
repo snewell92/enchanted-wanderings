@@ -104,12 +104,6 @@
 			luphie_flowering_purple = true
 			luphie_pink = true
 
-		[types.wood_type.create_dd]
-			rose = true
-			smoked = true
-			rubber = true
-			spirit = true
-
 		[types.wood_type.integrateddynamics]
 			menril = true
 
