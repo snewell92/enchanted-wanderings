@@ -28,6 +28,9 @@ config/byg/backups/
 config/oculus.properties
 config/jei/world/
 
+# this gets updated as the player engages
+patchouli_data.json
+
 rhino.local.properties
 usercache.json
 usernamecache.json
