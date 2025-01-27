@@ -1,5 +1,3 @@
-saves/
-newelland/
 .mixin.out/
 local/
 logs/
@@ -36,6 +34,9 @@ usercache.json
 usernamecache.json
 
 # Server stuff
+saves/
+newelland/
+enchanted_dreams/
 backups/
 crash-reports/
 banned-*.json
@@ -50,6 +51,8 @@ whitelist.json
 servers.dat
 servers.dat_old
 servers.essential.dat
+hs_err_pid24636.log
+config/jade/server*
 
 # mac
 .DS_Store
