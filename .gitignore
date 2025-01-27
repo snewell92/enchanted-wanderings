@@ -26,6 +26,7 @@ ESM/
 config/chunky/tasks/
 config/byg/backups/
 config/oculus.properties
+config/jei/world/
 
 rhino.local.properties
 usercache.json
