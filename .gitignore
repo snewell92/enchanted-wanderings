@@ -25,6 +25,7 @@ essential/screenshot-checksum-caches.json
 ESM/
 config/chunky/tasks/
 config/byg/backups/
+config/oculus.properties
 
 rhino.local.properties
 usercache.json
