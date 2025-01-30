@@ -45,6 +45,7 @@ libraries/
 mcss*.json
 ops.json
 run.bat
+run.sh
 server.properties
 user_jvm_args.txt
 whitelist.json
