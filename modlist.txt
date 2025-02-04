@@ -21,6 +21,7 @@ CreateCasing-1.19.2-1.6.1-fix3.jar
 CreativeCore_FORGE_v2.11.28_mc1.19.2.jar
 Cucumber-1.19.2-6.0.11.jar
 CyclopsCore-1.19.2-1.19.6.jar
+Delightful-1.19.2-3.4.1.jar
 DiagonalFences-v4.2.6-1.19.2-Forge.jar
 DiagonalWindows-v4.0.2-1.19.2-Forge.jar
 Ding-1.19.2-Forge-1.5.0.jar
@@ -36,10 +37,10 @@ Fastload-Reforged-mc1.19.2-3.4.0.jar
 Festive_Delight_1.3_Forge_1.19.2.jar
 FramedBlocks-6.8.6.jar
 From-The-Fog-1.19-v1.9.1-Forge-Fabric.jar
+GPUTape-1.18x-1.21x-1.0.5.1.jar
 GeckoLibOculusCompat-Forge-1.0.1.jar
 GeophilicReforged-v1.2.0.jar
 GiveMeHats-Forge-1.19-2.5.0.jar
-GPUTape-1.18x-1.21x-1.0.5.1.jar
 Highlighter-1.19.1-1.1.4.jar
 IceandFireDelight_addon1.19.2-1.1.4.jar
 Iceberg-1.19.2-forge-1.1.4.jar
@@ -55,6 +56,7 @@ LegendaryTooltips-1.19.2-1.3.1.jar
 LibX-1.19.2-4.2.8.jar
 MagnumTorch-v4.2.3-1.19.2-Forge.jar
 Mantle-1.19.2-1.10.48.jar
+MapFrontiers-1.19.2-2.5.1.jar
 MouseTweaks-forge-mc1.19-2.23.jar
 MysticalAgradditions-1.19.2-6.0.5.jar
 MysticalAgriculture-1.19.2-6.0.16.jar
@@ -75,6 +77,7 @@ RSInfinityBooster-1.19.2-3.0+27.jar
 RS_CraftingMonitorInGrid-1.19.2-3.1.jar
 Resourcify (1.19-1.19.2-forge)-1.6.1.jar
 Rex's-AdditionalStructures-1.19.x-(v.4.0.4).jar
+RoadRunner-mc1.19.2-2.0.0+git.7b4f25a.jar
 SandBox-1.19.2-1.0.1.jar
 ShieldExpansion-1.19.2-1.2.2.jar
 ShoulderSurfing-Forge-1.19.2-4.8.0.jar
@@ -151,13 +154,14 @@ cratedelight-24.12.27-1.19-forge.jar
 create-1.19.2-0.5.1.i.jar
 create-structures-0.1.0.jar
 create-stuff-additions1.19.2_v2.0.4a.jar
+create_central_kitchen-1.19.2-for-create-0.5.1.f-1.3.11.c.jar
 create_connected-0.8.2-mc1.19.2-all.jar
 create_copper_and_zinc-1.6.0-forge-1.19.2.jar
 create_easy_structures-0.1.2-forge-1.19.2.jar
 create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.e.jar
 create_high_pressure-1.1.0-1.19.2.jar
 create_structures_arise-144.17.16-forge-1.19.2.jar
-create_wizardry-1.19.2-hahafunny-2024.jar
+create_wizardry-1.19.2-0.2.0.jar
 createaddition-1.19.2-1.2.2.jar
 creeperoverhaul-2.0.9-forge.jar
 ctov-3.2.6c.jar
@@ -183,7 +187,6 @@ endrem_forge-5.2.1-R-1.19.X.jar
 entity_model_features_forge_1.19.2-2.0.2.jar
 entity_texture_features_forge_1.19.2-6.0.1.jar
 entityculling-forge-1.6.1-mc1.19.2.jar
-essential_1-3-5-5_forge_1-19-2.jar
 everycomp-1.19.2-2.5.31.jar
 extrasounds-1.19.2-forge-1.3-hotfix.jar
 extremesoundmuffler-3.39-forge-1.19.2.jar
@@ -217,6 +220,8 @@ interiors-0.5.6+forge-mc1.19.2-build.105.jar
 inventorysorter-1.19.2-21.1.9.jar
 irons_spellbooks-1.19.2-3.4.0.jar
 jei-1.19.2-forge-11.8.1.1034.jar
+jmi-forge-1.19.2-0.13-44.jar
+journeymap-1.19.2-5.9.8-forge.jar
 jumbofurnace-1.19.2-3.0.0.0.jar
 justenoughbreeding-forge-1.19.2-1.4.0.jar
 kotlinforforge-3.12.0-all.jar
@@ -228,7 +233,6 @@ libIPN-forge-1.19-4.0.2.jar
 lightspeed-1.19.2-1.0.5.jar
 lootr-forge-1.19-0.4.29.76.jar
 man_of_many_planes-0.0.4+1.19.2-forge.jar
-map_atlases-1.19-6.0.4.jar
 mcw-bridges-3.0.1-mc1.19.2forge.jar
 mcw-doors-1.1.1forge-mc1.19.2.jar
 mcw-fences-1.1.2-mc1.19.2forge.jar
@@ -246,6 +250,7 @@ modelfix-1.8.jar
 modernfix-forge-5.18.1+mc1.19.2.jar
 modonomicon-1.19.2-1.34.0.jar
 moonlight-1.19.2-2.3.7-forge.jar
+moredelight-25.01.13-1.19-forge.jar
 morered-1.19.2-3.0.0.2.jar
 mysterious_mountain_lib-1.2.3-1.19.2.jar
 mysticalagriculturedelight-1.0.2-1.19.2.jar
@@ -275,7 +280,6 @@ refinedstorageaddons-0.9.0.jar
 resourcefulconfig-forge-1.19.2-1.0.20.jar
 resourcefullib-forge-1.19.2-1.1.24.jar
 rhino-forge-1902.2.3-build.284.jar
-RoadRunner-mc1.19.2-2.0.0+git.7b4f25a.jar
 rubidium-extra-0.4.19+mc1.19.2-build.105.jar
 seamless-loading-screen-2.0.3+1.19.2-forge.jar
 servercore-forge-1.3.6+1.19.2.jar
