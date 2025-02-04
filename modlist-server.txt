@@ -131,6 +131,7 @@ cratedelight-24.12.27-1.19-forge.jar
 create-1.19.2-0.5.1.i.jar
 create-structures-0.1.0.jar
 create-stuff-additions1.19.2_v2.0.4a.jar
+create_central_kitchen-1.19.2-for-create-0.5.1.f-1.3.11.c.jar
 create_connected-0.8.2-mc1.19.2-all.jar
 create_copper_and_zinc-1.6.0-forge-1.19.2.jar
 create_easy_structures-0.1.2-forge-1.19.2.jar
