@@ -196,7 +196,6 @@ lazydfu-1.19-1.0.2.jar
 libIPN-forge-1.19-4.0.2.jar
 lootr-forge-1.19-0.4.29.76.jar
 man_of_many_planes-0.0.4+1.19.2-forge.jar
-map_atlases-1.19-6.0.4.jar
 mcw-bridges-3.0.1-mc1.19.2forge.jar
 mcw-doors-1.1.1forge-mc1.19.2.jar
 mcw-fences-1.1.2-mc1.19.2forge.jar
